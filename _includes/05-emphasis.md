@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#### Programming languages I have tried:
+
+_**C++**_
+
+_**Java**_
+
+_**HTML5, Javascript, CSS3**_
+
+_**Python**_
+
+_**PHP, MySQL**_
