@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+#### My Favorite Things:
+
+* Spend time with loved ones
+* Coding
+* Listening to music
+* Playing video games
